@@ -13,3 +13,6 @@
 .externalNativeBuild
 .cxx
 local.properties
+/app/src/main/res/drawable/android.xml
+/app/src/main/res/drawable/account.xml
+/app/src/main/res/drawable/abc.xml
